@@ -29,9 +29,13 @@ In the configuration, change the Device IP, port and gateway. In this example, t
 ![flow](/img/wavesahre-modbus.png)
 
 # Waveshare - serial over TPC (GreenBonO_HMI)
+Pro použití s GreenBonO_HMI, je potřeba přenastavit převodník
 
 ![flow](/img/waveshare-serial.png)
-![flow](/img/hmi.png)
+
+konfigurace komunikace v GreenBonO_HMI
+
+![flow](/img/gbo.png)
 
 
 
